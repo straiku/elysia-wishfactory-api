@@ -1,6 +1,6 @@
-import { PrismaClient } from "./generated/prisma/client";
-import { PrismaPg } from "@prisma/adapter-pg";
+import { PrismaClient } from "./generated/prisma/client"
+import { PrismaPg } from "@prisma/adapter-pg"
 
-const db = new PrismaClient({adapter: new PrismaPg({connectionString: Bun.env.DATABASE_URL})});
+const db = new PrismaClient({ adapter: new PrismaPg({ connectionString: Bun.env.DATABASE_URL }) })
 
 export default db

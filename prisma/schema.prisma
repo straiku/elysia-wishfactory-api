@@ -195,8 +195,8 @@ model Remix {
   votesCount     Int             @default(0) @map("votes_count")
   mergeStateId   String          @map("merge_state_id") @db.Uuid
   mergeState     RemixMergeState @relation(fields: [mergeStateId], references: [id])
-  publishStateId String?          @map("publish_state_id") @db.Uuid
-  publishState   PublishState?    @relation(fields: [publishStateId], references: [id])
+  publishStateId String?         @map("publish_state_id") @db.Uuid
+  publishState   PublishState?   @relation(fields: [publishStateId], references: [id])
   createdAt      DateTime        @default(now()) @map("created_at")
   updatedAt      DateTime        @updatedAt @map("updated_at")
 

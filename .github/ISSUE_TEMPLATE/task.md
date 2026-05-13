@@ -5,6 +5,7 @@ title: "[TASK] "
 labels: "chore"
 assignees: ""
 ---
+
 **Descripción**
 Qué hay que hacer.
 
@@ -12,6 +13,7 @@ Qué hay que hacer.
 Por qué es necesario.
 
 **Pasos sugeridos**
+
 1. Paso A
 2. Paso B
 

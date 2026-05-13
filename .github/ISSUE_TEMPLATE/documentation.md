@@ -5,6 +5,7 @@ title: "[DOCS] "
 labels: "documentation"
 assignees: ""
 ---
+
 **Sección afectada**
 Archivo o URL de la documentación.
 

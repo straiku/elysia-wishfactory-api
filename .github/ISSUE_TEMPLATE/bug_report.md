@@ -5,10 +5,12 @@ title: "[BUG] "
 labels: "bug"
 assignees: ""
 ---
+
 **Descripción**
 Breve resumen del problema.
 
 **Pasos para reproducir**
+
 1. Paso uno
 2. Paso dos
 3. Paso tres
@@ -20,9 +22,10 @@ Breve resumen del problema.
 ¿Qué ocurrió realmente? Incluye mensajes de error si los hay.
 
 **Entorno**
-- Versión del proyecto: 
-- Sistema operativo: 
-- Navegador / Node / Python / etc: 
+
+- Versión del proyecto:
+- Sistema operativo:
+- Navegador / Node / Python / etc:
 - Configuración relevante:
 
 **Registro o trazas**

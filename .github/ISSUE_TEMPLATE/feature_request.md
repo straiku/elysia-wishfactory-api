@@ -5,6 +5,7 @@ title: "[FEATURE] "
 labels: "enhancement"
 assignees: ""
 ---
+
 **Resumen**
 Descripción corta de la mejora propuesta.
 
